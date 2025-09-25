@@ -15,7 +15,7 @@
 
     -Moataz Samir Abdalshakor
 
-    -Elsayed Abdel-latif Khata
+    -Elsayed Abdellatef Elsayed
 
     -Youssef Mohammed Saber
 
