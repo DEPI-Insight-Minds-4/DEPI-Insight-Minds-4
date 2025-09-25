@@ -1,19 +1,22 @@
-Group 4
+# Group 4
 
-* Title: AI-Powered Job Market Insights
+## Title: AI-Powered Job Market Insights
 
 * Description: The “AI-Powered Job Market Insights” dataset simulates 500 job listings, highlighting AI’s impact on industries through factors like skills, automation risk, and growth     projections. It helps explore employment trends and the future of work.
 
-* Team mates:
+* Contributions
+
+    This project was also contributed to by:
+
 
     -Reham Ayman Hassan
 
     -Sogoud Ahmed Nour
 
+    -Moataz Samir Abdalshakor
+
+    -Elsayed Abdel-latif Khata
+
     -Youssef Mohammed Saber
-
-    -Elsayed Abdel-Latif Khata
-
-    -Moataz Samir Abdelshakor
 
     -Sara Ahmed Abdelhakem
