@@ -1,5 +1,5 @@
 # Group 4
-
+![image alt](https://github.com/DEPI-Insight-Minds-4/DEPI-Insight-Minds-4/blob/985777230d8a5ce19381271c9e41efa893b8b5e2/AI%20logo.jpeg)
 ## 1. Project Planning & Management
 
 ### Project Proposal
