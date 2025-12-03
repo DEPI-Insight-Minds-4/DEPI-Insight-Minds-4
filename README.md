@@ -25,7 +25,6 @@
 
     -Youssef Mohammed Saber
 
-    -Sara Ahmed Abdelhakem
 
 ### Project Plan
 
